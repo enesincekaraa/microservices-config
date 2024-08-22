@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to BankingApp cards related prod APIs "
+  contactDetails:
+    name: "Enes İncekara - Product Owner"
+    email: "enes@incekara.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721
