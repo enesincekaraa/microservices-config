@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to BankingApp accounts related prod APIs "
+  message: "Welcome to BankingApp accounts related production APIs "
   contactDetails:
     name: "Enes İncekara - Product Owner"
     email: "{cipher}29cba9c8d8046ea90d8b7d71a069aead5efa601ac847cc618e35566032139ef19b3d48b1afaa797a0022f2e6348ab78f"
