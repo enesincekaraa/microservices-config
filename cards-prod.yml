@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to BankingApp cards related prod APIs "
+  message: "Welcome to BankingApp cards related webhookk APIs "
   contactDetails:
     name: "Enes İncekara - Product Owner"
     email: "enes@incekara.com"
